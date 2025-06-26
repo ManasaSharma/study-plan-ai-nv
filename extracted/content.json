@@ -1,0 +1,250 @@
+{
+  "document_info": {
+    "title": "NVIDIA-Certified Associate: Generative AI LLM Exam Study Guide",
+    "total_pages": 8,
+    "total_sections": 5
+  },
+  "overview": {
+    "title": "Overview and Job Description",
+    "summary": "The generative AI-large language model (LLM) associate developer contributes to development, programming, and quality assurance of state-of-the-art generative AI LLM systems. They work with AI professionals to develop datasets, select and train models, implement testing and debugging processes, and understand model deployment for applications.",
+    "job_responsibilities": [
+      "Collaborate with AI development team to design, code, test, debug, and document programming applications",
+      "Perform system analysis to ensure software and systems meet required specifications",
+      "Aid in integrating new AI language models into existing systems or creating new ones",
+      "Assist in assessment and resolution of application and system performance issues",
+      "Stay updated on new AI models and developments related to language learning models",
+      "Contribute to production of technical documents and manuals",
+      "Conduct software programming and documentation development under senior staff direction",
+      "Perform prompt engineering",
+      "Select models",
+      "Define, curate, label, and annotate LLM datasets",
+      "Perform experimentation like A/B testing, evaluating prompts, evaluating models, and producing POCs"
+    ],
+    "recommended_qualifications": [
+      "Bachelor's degree in computer science, software engineering, AI, or related field",
+      "Knowledge of Python, C, and AI frameworks (PyTorch, TensorFlow, etc.)",
+      "Solid understanding of neural networks and deep learning models"
+    ]
+  },
+  "core_ml_ai": {
+    "title": "Core Machine Learning and AI Knowledge",
+    "exam_weight": "30%",
+    "summary": "Knowledge of algorithms, conventions, and techniques that allow computers to learn from and make predictions or decisions based on data.",
+    "key_topics": [
+      "Assist in deployment and evaluation of model scalability, performance, and reliability",
+      "Process of extracting insights from large datasets using data mining, data visualization",
+      "Build LLM use cases such as retrieval-augmented generation (RAG), chatbots, and summarizers",
+      "Curate and embed content datasets for RAGs",
+      "Fundamentals of machine learning (feature engineering, model comparison, cross validation)",
+      "Python natural language packages (spaCy, NumPy, vector databases, etc.)",
+      "Read research papers to identify emerging LLM trends and technologies",
+      "Select and use models to create text embeddings",
+      "Use prompt engineering principles to create prompts to achieve desired results",
+      "Use Python packages (spaCy, NumPy, Keras, etc.) for traditional machine learning analyses"
+    ],
+    "nvidia_courses": [
+      "Fundamentals of Deep Learning, Getting Started With Deep Learning",
+      "Introduction to Transformer-Based Natural Language Processing",
+      "Building Transformer-Based Natural Language Processing Applications",
+      "Fundamentals of Accelerated Data Science",
+      "Building LLM Applications With Prompt Engineering",
+      "Rapid Application Development With Large Language Models (LLMs)"
+    ],
+    "suggested_readings": [
+      "Attention Is All You Need",
+      "Autoregressive Model",
+      "End-to-End AI for NVIDIA-Based PCs: Transitioning AI Models With ONNX",
+      "What Are Foundation Models?, NVIDIA Blog",
+      "LoRA: Low-Rank Adaptation of Large Language Models",
+      "Generative AI—What Is It and How Does it Work?",
+      "Activation Function",
+      "Implementing Deep Learning Methods and Feature Engineering for Text Data",
+      "Generative AI Research Spotlight: Demystifying Diffusion-Based Models",
+      "Training Hidden Units With Back Propagation"
+    ]
+  },
+  "data_analysis": {
+    "title": "Data Analysis",
+    "exam_weight": "14%",
+    "summary": "Inspecting, cleansing, transforming, and modeling data with the goal of discovering useful information, informing conclusions, and supporting decision-making.",
+    "key_topics": [
+      "Process of extracting insights from large datasets using data mining, data visualization",
+      "Compare models using statistical performance metrics, such as loss functions or proportion of explained variance",
+      "Conduct data analysis under supervision of senior team member",
+      "Create graphs, charts, or other visualizations to convey results of data analysis",
+      "Identify relationships and trends or factors that could affect research results"
+    ],
+    "nvidia_courses": [
+      "Fundamentals of Deep Learning, Getting Started With Deep Learning",
+      "Introduction to Transformer-Based Natural Language Processing",
+      "Building Transformer-Based Natural Language Processing Applications",
+      "Building LLM Applications With Prompt Engineering",
+      "Rapid Application Development With Large Language Models (LLMs)",
+      "Fundamentals of Accelerated Data Science"
+    ],
+    "suggested_readings": [
+      "RAPIDS",
+      "cuML 24.04.00 documentation",
+      "GPU Accelerated Data Science With RAPIDS",
+      "Data Exploration",
+      "Stemming and Lemmatizing With sklearn Vectorizers"
+    ]
+  },
+  "experimentation": {
+    "title": "Experimentation",
+    "exam_weight": "22%",
+    "summary": "The study of how to perform, evaluate, and interpret experiments, including AI model evaluation and the use of human subjects in labeling or reinforcement learning from human feedback (RLHF).",
+    "key_topics": [
+      "Process of extracting insights from large datasets using data mining, data visualization",
+      "Compare models using statistical performance metrics, such as loss functions or proportion of explained variance",
+      "Conduct data analysis under supervision of senior team member",
+      "Create graphs, charts, or other visualizations to convey results of data analysis",
+      "Identify relationships and trends or factors that could affect research results"
+    ],
+    "nvidia_courses": [
+      "Fundamentals of Deep Learning, Getting Started With Deep Learning",
+      "Introduction to Transformer-Based Natural Language Processing",
+      "Building Transformer-Based Natural Language Processing Applications",
+      "Fundamentals of Accelerated Data Science",
+      "Rapid Application Development With Large Language Models (LLMs)",
+      "Building LLM Applications With Prompt Engineering"
+    ],
+    "suggested_readings": [
+      "How to Conduct A/B Testing in Machine Learning?",
+      "Inference Optimization",
+      "Zero-Shot Testing",
+      "Speech and Language Processing",
+      "Machine Translation methods",
+      "Hallucinations in Large Language Models",
+      "General Language Understanding Evaluation",
+      "Evaluating RAG Applications",
+      "Cross-Validation in Machine Learning",
+      "Benchmarking Elementary Language Tasks",
+      "Building Transformer-Based Natural Language Processing Applications"
+    ]
+  },
+  "software_development": {
+    "title": "Software Development",
+    "exam_weight": "24%",
+    "summary": "Create, maintain, and test software.",
+    "key_topics": [
+      "Assist in deployment and evaluations of model scalability, performance, and reliability",
+      "Build LLM use cases such as RAGs, chatbots, and summarizers",
+      "Familiarity with capabilities of Python natural language packages (spaCy, NumPy, vector databases, etc.)",
+      "Identify system data, hardware, or software components required to meet user needs",
+      "Monitor functioning of data collection, experiments, and other software processes",
+      "Use Python packages (spaCy, NumPy, Keras, etc.) to implement specific traditional machine learning analyses",
+      "Write software components or scripts under supervision of senior team member"
+    ],
+    "nvidia_courses": [
+      "Fundamentals of Deep Learning, Getting Started With Deep Learning",
+      "Introduction to Transformer-Based Natural Language Processing",
+      "Building Transformer-Based Natural Language Processing Applications",
+      "Fundamentals of Accelerated Data Science",
+      "Rapid Application Development With Large Language Models (LLMs)",
+      "Building LLM Applications With Prompt Engineering"
+    ],
+    "suggested_readings": [
+      "TensorRT—Get Started, NVIDIA Developer",
+      "Best Practices—NVIDIA NeMo",
+      "Mastering LLM Techniques: Customization, NVIDIA Technical Blog",
+      "Achieving FP32 Accuracy for INT8 Inference Using Quantization-Aware Training With NVIDIA TensorRT",
+      "NCCL: Accelerated Multi-GPU Collective Communications",
+      "Technologies Behind Distributed Deep Learning: AllReduce, Preferred Networks Research & Development",
+      "Visual Intuition on Ring—Allreduce for Distributed Deep Learning, by Edir Garcia Lazo, Towards Data Science",
+      "Big Data? Datasets to the Rescue!, Hugging Face NLP Course",
+      "Deep Learning Scaling Is Predictable, Empirically",
+      "BERT: Pretraining of Deep Bidirectional Transformers for Language Understanding"
+    ]
+  },
+  "trustworthy_ai": {
+    "title": "Trustworthy AI",
+    "exam_weight": "10%",
+    "summary": "Creation and assessment of ethical, energy-conscious, and reliable artificial intelligence systems capable of interpreting and integrating various forms of data, ensuring that they're designed and applied in a manner that's transparent, fair, and verifiable.",
+    "key_topics": [
+      "Describe the ethical principles of trustworthy AI",
+      "Describe the balance between data privacy and the importance of data consent",
+      "Describe how to use NVIDIA and other technologies to improve AI trustworthiness",
+      "Describe how to minimize bias in AI systems"
+    ],
+    "nvidia_courses": [
+      "Rapid Application Development With Large Language Models (LLMs)"
+    ],
+    "suggested_readings": [
+      "Trustworthy AI for A Better World, NVIDIA",
+      "What Is Trustworthy AI?, NVIDIA Blog",
+      "What Is Retrieval-Augmented Generation aka RAG?, NVIDIA Blogs"
+    ]
+  },
+  "hierarchy": {
+    "root": "NVIDIA-Certified Associate: Generative AI LLM Exam Study Guide",
+    "main_branches": [
+      {
+        "name": "Overview & Job Description",
+        "weight": "N/A",
+        "sub_branches": [
+          "Job Responsibilities",
+          "Recommended Qualifications"
+        ]
+      },
+      {
+        "name": "Core Machine Learning and AI Knowledge",
+        "weight": "30%",
+        "sub_branches": [
+          "Model Deployment",
+          "Data Mining",
+          "LLM Use Cases",
+          "RAG Systems",
+          "ML Fundamentals",
+          "Python NLP Packages",
+          "Research Papers",
+          "Text Embeddings",
+          "Prompt Engineering"
+        ]
+      },
+      {
+        "name": "Data Analysis",
+        "weight": "14%",
+        "sub_branches": [
+          "Data Mining",
+          "Statistical Metrics",
+          "Data Visualization",
+          "Trend Analysis",
+          "Performance Comparison"
+        ]
+      },
+      {
+        "name": "Experimentation",
+        "weight": "22%",
+        "sub_branches": [
+          "Model Evaluation",
+          "A/B Testing",
+          "RLHF",
+          "Statistical Analysis",
+          "Research Interpretation"
+        ]
+      },
+      {
+        "name": "Software Development",
+        "weight": "24%",
+        "sub_branches": [
+          "Model Deployment",
+          "LLM Applications",
+          "Python Development",
+          "System Requirements",
+          "Software Testing"
+        ]
+      },
+      {
+        "name": "Trustworthy AI",
+        "weight": "10%",
+        "sub_branches": [
+          "Ethical Principles",
+          "Data Privacy",
+          "AI Trustworthiness",
+          "Bias Minimization"
+        ]
+      }
+    ]
+  }
+}
